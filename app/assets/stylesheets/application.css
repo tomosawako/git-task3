@@ -13,3 +13,11 @@
  *= require_tree .
  *= require_self
  */
+ *{
+   box-sizing: border-box;
+ }
+
+ .text-light{
+   color: #f8f9fa;
+ }
+
